@@ -2248,7 +2248,7 @@ img {
   font-style: italic;
 }
 .link {
-  color: #00aeef;
+  color: #1f02fb;
   font-weight: 700;
   text-decoration: none;
 }
@@ -3143,7 +3143,7 @@ img {
 }
 .list-number {
   z-index: 2;
-  background-color: #00aeef;
+  background-color: #1f02fb;
   border-radius: 50%;
   flex-direction: column;
   width: 85px;
@@ -3336,7 +3336,7 @@ img {
 }
 .site-footer {
   text-align: center;
-  background-color: #00aeef;
+  background-color: #1f02fb;
   margin-top: 0;
   padding: 50px 10px;
 }
@@ -13400,7 +13400,7 @@ img {
     z-index: 2;
     aspect-ratio: auto;
     overflow-wrap: normal;
-    background-color: #00aeef;
+    background-color: #1f02fb;
     border-radius: 50%;
     order: 0;
     width: 85px;
@@ -13488,7 +13488,7 @@ img {
     width: 100%;
   }
   .site-footer {
-    background-color: #00aeef;
+    background-color: #1f02fb;
     margin-top: 0;
   }
   .fmenu,
@@ -13918,7 +13918,7 @@ img {
 }
 @media screen and (max-width: 991px) {
   a {
-    color: #00aeef;
+    color: #1f02fb;
     font-weight: 700;
     text-decoration: none;
   }
