@@ -2593,8 +2593,8 @@ img {
   grid-column-gap: 10px;
   grid-row-gap: 10px;
   color: #fff;
-  background-color: #22c65b;
-  border: 1px #22c65b;
+  background-color: #058933;
+  border: 1px #058933;
   border-radius: 4px;
   justify-content: center;
   align-items: center;
@@ -2773,7 +2773,7 @@ img {
 .green-cta-2 {
   grid-column-gap: 10px;
   grid-row-gap: 10px;
-  background-color: #22c65b;
+  background-color: #058933;
   border: 1px #e67919;
   border-radius: 4px;
   justify-content: center;
@@ -3066,10 +3066,10 @@ img {
 .cta-button {
   -webkit-text-fill-color: inherit;
   mix-blend-mode: normal;
-  background-color: #22c65b;
+  background-color: #058933;
   background-clip: border-box;
   border: 7px solid #006400a8;
-  border-color: #22c65b #006400a8 #006400;
+  border-color: #058933 #006400a8 #006400;
   border-radius: 20px;
   justify-content: center;
   padding: 40px 10px;
@@ -12283,8 +12283,8 @@ img {
   grid-column-gap: 10px;
   grid-row-gap: 10px;
   color: #fff;
-  background-color: #22c65b;
-  border: 1px #22c65b;
+  background-color: #058933;
+  border: 1px #058933;
   border-radius: 4px;
   justify-content: center;
   align-items: center;
