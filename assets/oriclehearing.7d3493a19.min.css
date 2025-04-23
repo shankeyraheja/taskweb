@@ -2323,10 +2323,9 @@ img {
   margin-bottom: 20px;
 }
 .main-image {
-  object-fit: fill;
-  align-self: center;
-  margin-top: -3px;
-  margin-bottom: 0;
+  max-width: 100%;
+  height: auto;
+  display: block;
 }
 .main-image.margin-top-bottom-10px {
   margin-top: 10px;
