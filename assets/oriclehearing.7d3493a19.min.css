@@ -2297,14 +2297,14 @@ img {
   inset: auto 0% -62px;
 }
 .sticky-green-cta.floating-nav-content {
-  background-color: #24c75a;
+  background-color: #026c2a;
   bottom: 0;
 }
 .sticky-green-cta.floating-nav-content:hover {
-  background-color: #0ee950;
+  background-color: #026c2a;
 }
 .green-cta-button {
-  color: #00c249;
+  color: #026c2a;
   text-align: center;
   background-color: #fff;
   width: 600px;
@@ -2593,8 +2593,8 @@ img {
   grid-column-gap: 10px;
   grid-row-gap: 10px;
   color: #fff;
-  background-color: #058933;
-  border: 1px #058933;
+  background-color: #026c2a;
+  border: 1px #026c2a;
   border-radius: 4px;
   justify-content: center;
   align-items: center;
@@ -2608,7 +2608,7 @@ img {
 }
 .green-cta:hover {
   color: #fff;
-  background-color: #3be576;
+  background-color: #026c2a;
 }
 .green-cta.txt-center {
   text-align: center;
@@ -2773,7 +2773,7 @@ img {
 .green-cta-2 {
   grid-column-gap: 10px;
   grid-row-gap: 10px;
-  background-color: #058933;
+  background-color: #026c2a;
   border: 1px #e67919;
   border-radius: 4px;
   justify-content: center;
@@ -2784,9 +2784,9 @@ img {
   display: flex;
 }
 .green-cta-2:hover {
-  background-color: #3be576;
+  background-color: #026c2a;
   border-style: none;
-  border-color: #3be676;
+  border-color: #026c2a;
 }
 .p1-4 {
   color: #000;
@@ -3066,10 +3066,10 @@ img {
 .cta-button {
   -webkit-text-fill-color: inherit;
   mix-blend-mode: normal;
-  background-color: #058933;
+  background-color: #026c2a;
   background-clip: border-box;
   border: 7px solid #006400a8;
-  border-color: #058933 #006400a8 #006400;
+  border-color: #026c2a #006400a8 #006400;
   border-radius: 20px;
   justify-content: center;
   padding: 40px 10px;
@@ -5486,7 +5486,7 @@ img {
   display: flex;
 }
 .button {
-  background-color: #0bb624;
+  background-color: #026c2a;
   border: 1px solid #0003;
   border-radius: 3px;
   align-items: center;
@@ -12237,7 +12237,7 @@ img {
   background-color: #b6b5b5;
 }
 .green-cta-button-v7 {
-  color: #f6f9fe;
+  color: #026c2a;
   text-align: center;
   cursor: pointer;
   letter-spacing: 0.02px;
@@ -12283,8 +12283,8 @@ img {
   grid-column-gap: 10px;
   grid-row-gap: 10px;
   color: #fff;
-  background-color: #058933;
-  border: 1px #058933;
+  background-color: #026c2a;
+  border: 1px #026c2a;
   border-radius: 4px;
   justify-content: center;
   align-items: center;
