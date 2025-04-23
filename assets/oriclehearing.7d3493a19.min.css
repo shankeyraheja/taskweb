@@ -1879,7 +1879,7 @@ p {
   margin-bottom: 20px;
 }
 a {
-  color: #00aeef;
+  color: #1f02fb;
   font-weight: 700;
   text-decoration: none;
 }
@@ -2222,7 +2222,7 @@ img {
   line-height: 1.6em;
 }
 .span1 {
-  color: #999;
+  color: black;
   font-family: Open Sans, sans-serif;
   line-height: 1.6em;
 }
@@ -2349,7 +2349,7 @@ img {
   display: flex;
 }
 .p-timestamp {
-  color: #999;
+  color: black;
   font-family: Open Sans, sans-serif;
   font-size: 18px;
   font-weight: 400;
