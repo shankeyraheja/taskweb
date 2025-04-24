@@ -8,11 +8,17 @@ After Performance Optimization: https://taskweb-theta.vercel.app/
 Steps taken for Performance Optimization:
 
 Defer scripts which are non critical
+
 preload critical images like large contentful paint
+
 Commented broken scripts and unused scripts
+
 Fixed Accessibility issues like adding aia-label to links and displaying images in its original aspect ratio.
+
 Fixed errors logged in the browser console
+
 Removed hidden iframes, scripts and buttons
+
 Changed required links to "https://www.click.example.com/click"
 
 
