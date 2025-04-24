@@ -2301,7 +2301,7 @@ img {
   bottom: 0;
 }
 .sticky-green-cta.floating-nav-content:hover {
-  background-color: #026c2a;
+  background-color: #0ee950;
 }
 .green-cta-button {
   color: #026c2a;
@@ -2607,7 +2607,7 @@ img {
 }
 .green-cta:hover {
   color: #fff;
-  background-color: #026c2a;
+  background-color: #3be576;
 }
 .green-cta.txt-center {
   text-align: center;
